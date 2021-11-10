@@ -3,6 +3,6 @@ Name - Lucknow,
 Name - Hyderabad,
 Name - Pune,
 Name - Delhi,
-Name - Kolkata,
-Name - Mumbai.
+Name - Kolkata.
+
 
